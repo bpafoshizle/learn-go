@@ -12,3 +12,5 @@ func main() {
 	fmt.Printf("quote.Hello(): %s\n", quote.Hello())
 	fmt.Printf("quote.Opt(): %s\n", quote.Opt())
 }
+
+// comment
